@@ -28,7 +28,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "斗兽奇弈机制提示与自动避让",
-    "Changelog": "7.5.6.18：迁移插件发布仓库至 duyaxxx/BMR，订阅文件为 repo.json。插件名称与作者顺序保持不变，保留此前全部机制修复。",
+    "Changelog": "7.5.6.18：迁移插件发布仓库至 duyaxxx/BMR",
     "AcceptsFeedback": true,
     "IsHide": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
