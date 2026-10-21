@@ -1,0 +1,39 @@
+[
+  {
+    "Author": "KanoNoUta, COXOIDA",
+    "Name": "Bossmod Reborn",
+    "InternalName": "BossModReborn",
+    "AssemblyVersion": "7.5.6.18",
+    "Description": "支持斗兽自走棋部分线路",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/duyaxxx/BMR",
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "Punchline": "斗兽奇弈机制提示与自动避让",
+    "Changelog": "7.5.6.18：迁移插件发布仓库至 duyaxxx/BMR，订阅文件为 repo.json。插件名称与作者顺序保持不变，保留此前全部机制修复。",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
+    "LastUpdate": 1792607762
+  }
+]
