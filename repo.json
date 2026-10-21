@@ -3,7 +3,7 @@
     "Author": "KanoNoUta, COXOIDA",
     "Name": "Bossmod Reborn",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.6.18",
+    "AssemblyVersion": "7.5.6.19",
     "Description": "支持斗兽自走棋部分线路",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/duyaxxx/BMR",
@@ -28,12 +28,12 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "斗兽奇弈机制提示与自动避让",
-    "Changelog": "7.5.6.18：迁移插件发布仓库至 duyaxxx/BMR",
+    "Changelog": "7.5.6.19：迁移插件发布仓库至 duyaxxx/BMR，完善部分bzy绘制",
     "AcceptsFeedback": true,
     "IsHide": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.18.zip",
-    "LastUpdate": 1792607762
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.19.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.19.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.19.zip",
+    "LastUpdate": 1792610725
   }
 ]

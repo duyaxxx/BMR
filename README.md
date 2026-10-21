@@ -12,15 +12,15 @@ https://raw.githubusercontent.com/duyaxxx/BMR/main/repo.json
 
 ## 当前版本
 
-- 版本：7.5.6.18
+- 版本：7.5.6.19
 - Dalamud API：15
-- 发布仓库迁移至 duyaxxx/BMR；插件名称为 Bossmod Reborn，作者顺序为 KanoNoUta, COXOIDA。
+- 7.5.6.19：迁移插件发布仓库至 duyaxxx/BMR，完善部分bzy绘制
 - 包内仅有 BossModReborn.dll、BossModReborn.json、两个运行时预设 JSON 和 LICENSE.txt。
 - 已完成 Release 编译及发布包校验；本次发布流程未进行游戏内实测。
 
-手动下载：[7.5.6.18](https://github.com/duyaxxx/BMR/raw/refs/heads/main/BossModReborn-7.5.6.18.zip)
+手动下载：[7.5.6.19](https://github.com/duyaxxx/BMR/raw/refs/heads/main/BossModReborn-7.5.6.19.zip)
 
-SHA-256：4109c055f7b548b2f16d93c49f53624a1d07687611b47a723a198a792da27543
+SHA-256：470b0ee124ca64ea1f1e5116c0d590ec2f26926d4871c9de053bd01e993dd468
 
 ## 许可证与致谢
 
