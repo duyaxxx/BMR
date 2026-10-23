@@ -12,15 +12,15 @@ https://raw.githubusercontent.com/duyaxxx/BMR/main/repo.json
 
 ## 当前版本
 
-- 版本：7.5.6.20
+- 版本：7.5.6.21
 - Dalamud API：15
-- 7.5.6.20：完善部分bzy绘制，更新插件描述。
+- 7.5.6.21：合并并同步各分支与工作区修改，补齐部分bzy机制绘制及避让，保留已有分摊修复。
 - 包内仅有 BossModReborn.dll、BossModReborn.json、两个运行时预设 JSON 和 LICENSE.txt。
 - 已完成 Release 编译及发布包校验；本次发布流程未进行游戏内实测。
 
-手动下载：[7.5.6.20](https://github.com/duyaxxx/BMR/raw/refs/heads/main/BossModReborn-7.5.6.20.zip)
+手动下载：[7.5.6.21](https://github.com/duyaxxx/BMR/raw/refs/heads/main/BossModReborn-7.5.6.21.zip)
 
-SHA-256：2e251d0e49994f05a2de7c3ca03639bdfcd18011db34231b04de19f760196453
+SHA-256：973ed710620c6664e06f63fc3130fdff102685b3cebd4027eb424d12364f99f0
 
 ## 许可证与致谢
 

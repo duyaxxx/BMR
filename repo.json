@@ -3,7 +3,7 @@
     "Author": "KanoNoUta, COXOIDA",
     "Name": "Bossmod Reborn",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.6.20",
+    "AssemblyVersion": "7.5.6.21",
     "Description": "bzy究极测试版，随时炸",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/duyaxxx/BMR",
@@ -28,12 +28,12 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "斗兽奇弈机制提示与自动避让",
-    "Changelog": "7.5.6.20：完善部分bzy绘制，更新插件描述。",
+    "Changelog": "7.5.6.21：合并并同步各分支与工作区修改，补齐部分bzy机制绘制及避让，保留已有分摊修复。",
     "AcceptsFeedback": true,
     "IsHide": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.20.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.20.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.20.zip",
-    "LastUpdate": 1792739558
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.21.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.21.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/duyaxxx/BMR/main/BossModReborn-7.5.6.21.zip",
+    "LastUpdate": 1792740501
   }
 ]
